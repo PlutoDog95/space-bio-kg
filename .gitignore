@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# FastAPI / Uvicorn
+*.log
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env

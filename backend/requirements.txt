@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+lxml
+tqdm
+python-dotenv
+pdfplumber
+neo4j
+scikit-learn
+faiss-cpu
+openai
