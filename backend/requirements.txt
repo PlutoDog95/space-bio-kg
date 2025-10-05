@@ -10,3 +10,7 @@ neo4j
 scikit-learn
 faiss-cpu
 openai
+transformers>=4.30
+sentencepiece
+pdfplumber
+torch
